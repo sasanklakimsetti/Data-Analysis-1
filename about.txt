@@ -1,0 +1,18 @@
+This analysis has been performed using Microsoft Excel
+
+This analysis contains 
+
+* Dashboard
+* Analysis of players based on different aspects in different sheets using pivot tables and pivot charts.
+* Every analysis sheet contains a conclusion.
+
+
+This file contains
+
+* Slicers
+* Timeline
+* Macros
+* Pivot Tables
+* Pivot Charts
+* Links between sheets from dashboard
+* Hyperlink of every sheet
